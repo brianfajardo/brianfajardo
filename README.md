@@ -1,5 +1,3 @@
-![bart](bart.gif)
-
 <!--
 **brianfajardo/brianfajardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<center>
+  <img alt="Bart Simpson feeling groovy with the music" src="https://github.com/brianfajardo/brianfajardo/blob/main/bart.gif?raw=true" width="35%">
+</center>

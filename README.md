@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="text-align:center">
-  <img alt="Bart Simpson feeling groovy with the music" src="https://github.com/brianfajardo/brianfajardo/blob/main/bart.gif?raw=true" width="35%">
-</div>
+<p align="center">
+  <img alt="Bart Simpson feeling groovy with the music" src="https://github.com/brianfajardo/brianfajardo/blob/main/bart.gif?raw=true" width="45%">
+</p>
